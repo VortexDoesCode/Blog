@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello!
+My name is Vortex and I am a Solo Game Developer/Software Engineer. I spend most of my free time creating PSX/Retro-Style Horror Games or just tinkering with making random stuff.
+I have a YouTube channel where I upload videos pretaining to Programing and Gaming, maybe some other random videos.
